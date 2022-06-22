@@ -6,5 +6,4 @@ Ecuador
 Columbia
 Bolivia
 Uruguay
-Guyanas
-Mexico
+Guyana

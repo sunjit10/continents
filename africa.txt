@@ -3,3 +3,4 @@ egypt
 zimbabwe
 kenya
 tanzania
+algeria
